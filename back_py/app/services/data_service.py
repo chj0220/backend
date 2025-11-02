@@ -9,7 +9,7 @@ def get_connection():
         host="db",        
         user="root",
         password="1234",
-        database="project"
+        database="project",
         charset="utf8mb4",
         collation="utf8mb4_unicode_ci"
     )
